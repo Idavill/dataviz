@@ -11,6 +11,8 @@
     "@mui/x-data-grid": "^7.23.5",
     "@mui/x-date-pickers": "^7.23.3",
     "@mui/x-tree-view": "^7.23.2",
+    "@nivo/bar": "^0.88.0",
+    "@nivo/core": "^0.88.0",
     "@react-spring/web": "^9.7.5",
     "cra-template": "1.2.0",
     "dayjs": "^1.11.13",
